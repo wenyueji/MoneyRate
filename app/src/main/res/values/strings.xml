@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">汇率监控</string>
+    <string name="autonotice">自动通知</string>
+</resources>
